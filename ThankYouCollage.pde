@@ -5,6 +5,7 @@ float ball = 255;
 
 void setup() {
   size(900, 700);
+  imgp=loadImage("vap_1394528093.jpg");
 }
 
 void draw() {
